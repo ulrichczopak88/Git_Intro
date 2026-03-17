@@ -52,7 +52,8 @@ Tastenkombination: `Strg + Umschalt + P` Add remote ind die Suche ergibt Git: Ad
 
   [https://git-scm.com/learn](https://git-scm.com/learn)
 
-
+ [Cheatsheet](https://git-scm.com/cheat-sheet)
+ 
 ## UV installieren
 
 An extremely fast Python package and project manager, written in Rust. &copy; [https://docs.astral.sh/uv/](https://docs.astral.sh/uv/)
