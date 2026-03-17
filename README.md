@@ -79,7 +79,7 @@ In einem Terminal oder der Windows Powershell haben wir folgende Befehle verwend
 # Ziel für die zweite Lehreinheit: Jupyter Notebook Wetter Daten importieren und plotten mit Pandas und Matplotlib
 
 1. Projektordner erstellen
-2. `uv add pandas matplotlib jupyter`:
+2. `uv add pandas matplotlib jupyter ipykernel`:
 
 `PS C:\Users\UlrichLehre\Documents\Git_Intro> uv add pandas matplotlib `
 
