@@ -75,6 +75,8 @@ In einem Terminal oder der Windows Powershell haben wir folgende Befehle verwend
 
 `mkdir`make Directory: Erstellt einen neuen Ordner.
 
+## Mardown
+[Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 # Ziel für die zweite Lehreinheit: Jupyter Notebook Wetter Daten importieren und plotten mit Pandas und Matplotlib
 
